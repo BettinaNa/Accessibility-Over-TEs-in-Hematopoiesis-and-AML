@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -e
+
+mkdir homer
+cd /homer
+curl -O http://homer.ucsd.edu/homer/configureHomer.pl
+
+perl configureHomer.pl -install
+perl configureHomer.pl -install hg38
+
+# PATH=$PATH:/homer/bin/
+# source ~/.bash_profile
+
+
+

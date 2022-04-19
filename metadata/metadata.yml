@@ -1,0 +1,16 @@
+metadata_version: 1
+name: Accessibility Over Transposable Elements Reveals Genetic Determinants of Stemness Properties in Normal and Leukemic Hematopoiesis
+description: Despite most acute myeloid leukemia (AML) patients achieving complete remission after induction chemotherapy, two thirds of patients will relapse with fatal disease within 5 years. AML is organized as a cellular hierarchy sustained by leukemia stem cells (LSC) at the apex, with LSC properties directly linked to tumor progression, therapy failure and disease  relapse. Despite the central role of LSC in poor patient outcomes, little is known of the genetic determinants of their stemness properties. Although much AML research focuses on mutational processes and their impact on gene expression programs, the genetic determinants of cell state properties including stemness expand beyond mutations, relying on the genetic architecture captured in the chromatin of each cell. As LSCs share many functional and molecular properties with normal hematopoietic stem cells (HSC), we identified genetic determinants of primitive populations enriched for LSCs and HSCs in comparison with their downstream mature progeny by investigating their chromatin accessibility. Our work reveals how distinct transposable element (TE) subfamilies are used in primitive versus mature populations, functioning as docking sites for stem cell-associated regulators of genome topology, including CTCF, or lineage-specific transcription regulators in primitive and mature populations, respectively. We further show how TE subfamilies accessible in LSCs define docking sites for several oncogenic drivers in AML, namely FLI1, LYL1 and MEIS1. Using chromatin accessibility profiles from a cohort of AML patients, we further show the clinical utility of our TE accessibility-based LSCTE121 scoring scheme to identify patients with high rates of relapse. Collectively, our work reveals how different accessible TE subfamilies serve as genetic determinants of stemness properties in normal and leukemic hematopoietic stem cells.
+authors:
+- name: Bettina Nadorp
+  affiliations:
+  - name: University Health Network
+- name: Giacomo Grillo
+  affiliations:
+  - name: University Health Network
+- name: Aditi Qamra
+  affiliations:
+  - name: University Health Network
+corresponding_contributor:
+  name: Mathieu Lupien
+  email: mlupien@uhnresearch.ca

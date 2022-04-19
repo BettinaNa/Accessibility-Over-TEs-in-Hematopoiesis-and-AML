@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set -ex
+
+# prepare files for chromvar, run lola and homer
+for file in *.sh; do
+  bash $file
+done
+wait
+
+# Run analysis scripts 
+for file in 0*.R; do
+  Rscript $file &
+  wait
+done
+
+
